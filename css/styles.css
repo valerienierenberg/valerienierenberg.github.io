@@ -87,8 +87,8 @@ h1, .h1 {
   animation: fadeIn linear 1s;
   -webkit-animation: fadeIn linear 1s;
   -moz-animation: fadeIn linear 1s;
-  -o-animation: fadeIn linear 3s;
-  -ms-animation: fadeIn linear 3s;
+  -o-animation: fadeIn linear 1s;
+  -ms-animation: fadeIn linear 1s;
 }
 
 @media (min-width: 1200px) {
