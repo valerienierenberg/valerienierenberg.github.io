@@ -11254,7 +11254,7 @@ body {
 
 .typewriter h4 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
+  border-right: .15em black; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
@@ -11267,7 +11267,7 @@ body {
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
-  to { width: 50% }
+  to { width: 100% }
 }
 
 /* The typewriter cursor effect */
