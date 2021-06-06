@@ -11261,7 +11261,7 @@ body {
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
-    animation-delay: 8s;
+    animation-delay: 4s;
 }
 
 /* The typing effect */
