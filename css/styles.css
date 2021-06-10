@@ -11258,7 +11258,7 @@ body {
   padding: 5rem 0;
 }
 
-.typewriter h4 {
+.typewriter h3 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em black; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
