@@ -511,7 +511,7 @@ section {
   background: url("../img/demo_day_headshot.JPG") center center no-repeat;
   background-size: cover;
   min-height: 400px;
-  width: 100%;
+  max-width: 80%;
   height: auto;
 }
 
