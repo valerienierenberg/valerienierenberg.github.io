@@ -509,9 +509,9 @@ section {
 
 .about .image {
   background: url("../img/demo_day_headshot.JPG") center center no-repeat;
-  /*background-size: cover;*/
+  background-size: cover;
   min-height: 400px;
-  max-width: 100%;
+  width: 100%;
   height: auto;
 }
 
